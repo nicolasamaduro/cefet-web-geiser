@@ -19,25 +19,6 @@
 			"locstatecode": "15"
 		},
 		{
-			"steamid": "76561198036476656",
-			"communityvisibilitystate": 3,
-			"profilestate": 1,
-			"personaname": "Capiroto_Boy",
-			"lastlogoff": 1417060299,
-			"profileurl": "http://steamcommunity.com/id/Krovin/",
-			"avatar": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/97/978c45dea4c94238a290f06bd74c3d94a08f9074.jpg",
-			"avatarmedium": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/97/978c45dea4c94238a290f06bd74c3d94a08f9074_medium.jpg",
-			"avatarfull": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/97/978c45dea4c94238a290f06bd74c3d94a08f9074_full.jpg",
-			"personastate": 0,
-			"realname": "Klelvin",
-			"primaryclanid": "103582791429521408",
-			"timecreated": 1294346572,
-			"personastateflags": 0,
-			"loccountrycode": "BR",
-			"locstatecode": "15",
-			"loccityid": 7341
-		},
-		{
 			"steamid": "76561198027511798",
 			"communityvisibilitystate": 3,
 			"profilestate": 1,
@@ -106,5 +87,4 @@
 			"locstatecode": "NY"
 		}
 	]
-
 }
